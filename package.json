@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-remote",
+  "name": "@tispr/loopback-connector-remote",
   "version": "3.4.1",
   "description": "Remote REST API connector for Loopback",
   "main": "lib/remote-connector.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kraman/loopback-connector-remotekr.git"
+    "url": "https://github.com/tispr/loopback-connector-remote.git"
   },
   "contributors": [
     "Ritchie Martori <skawful@gmail.com> (https://github.com/ritch)",
@@ -32,7 +32,7 @@
   },
   "homepage": "http://loopback.io",
   "dependencies": {
-    "loopback-datasource-juggler": "^3.0.0",
+    "@tispr/loopback-datasource-juggler": "^4.0.0",
     "strong-remoting": "^3.15.0"
   },
   "devDependencies": {
