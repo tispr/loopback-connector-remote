@@ -43,7 +43,7 @@
     "grunt": "^1.0.3",
     "grunt-cli": "^1.2.0",
     "grunt-mocha-test": "^0.13.3",
-    "loopback": "^3.0.0",
+    "@tispr/loopback": "^3.0.0",
     "mocha": "^5.2.0",
     "sinon": "^6.0.0",
     "strong-task-emitter": "^0.0.8"

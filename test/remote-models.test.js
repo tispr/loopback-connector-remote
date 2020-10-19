@@ -7,7 +7,7 @@
 
 const assert = require('assert');
 const helper = require('./helper');
-const loopback = require('loopback');
+const loopback = require('@tispr/loopback');
 const TaskEmitter = require('strong-task-emitter');
 
 describe('Remote model tests', function() {

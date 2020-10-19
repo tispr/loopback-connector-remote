@@ -6,10 +6,10 @@
 'use strict';
 
 const helper = require('./helper');
-const loopback = require('loopback');
+const loopback = require('@tispr/loopback');
 const sinon = require('sinon');
 
-const relation = require('loopback-datasource-juggler/lib/relation-definition');
+const relation = require('@tispr/loopback-datasource-juggler/lib/relation-definition'); // eslint-disable-line max-len
 const RelationTypes = relation.RelationTypes;
 
 describe('Models Define Type Tests', function() {

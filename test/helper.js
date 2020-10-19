@@ -6,7 +6,7 @@
 'use strict';
 
 const extend = require('util')._extend;
-const loopback = require('loopback');
+const loopback = require('@tispr/loopback');
 const remoteConnector = require('..');
 
 exports.createMemoryDataSource = createMemoryDataSource;

@@ -7,7 +7,7 @@
 
 const assert = require('assert');
 const helper = require('./helper');
-const loopback = require('loopback');
+const loopback = require('@tispr/loopback');
 
 describe('RemoteConnector', function() {
   let serverApp, clientApp, ServerModel, ClientModel;
