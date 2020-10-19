@@ -1,6 +1,6 @@
 {
   "name": "@tispr/loopback-connector-remote",
-  "version": "3.4.1",
+  "version": "3.4.1-1",
   "description": "Remote REST API connector for Loopback",
   "main": "lib/remote-connector.js",
   "keywords": [
